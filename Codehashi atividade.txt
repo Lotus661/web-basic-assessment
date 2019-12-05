@@ -1,0 +1,9 @@
+1- the rotine will return a value filter on "data.service" that's i supose it's a data base, and will be stored ih the item variable.
+
+2- The value will be return on the Code, it's gonna be one String, because is being import from a DATABASE
+
+3- Then nothing will be return on the "value===item"
+
+4- We use the Keyword "Await" because, we ned to exemplefide one value to one variable. 
+
+
